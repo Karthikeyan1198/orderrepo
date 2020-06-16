@@ -1,0 +1,7 @@
+organization=karthikeyan1198
+projectKey=Karthikeyan1198_orderrepo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=Karthikeyan1198_orderrepo
+ceTaskId=AXKn730-d2UdGDRmDBSW
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKn730-d2UdGDRmDBSW
